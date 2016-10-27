@@ -1,0 +1,22 @@
+
+
+How it works:
+
+1) Use Expotify to export playlist to .csv
+2) Convert .csv file to .kgl file with proper format that is ready to import to Netease Music
+3) Import to Netease Music.
+
+
+<!-- Others:
+File format
+<?xml version="1.0" encoding="windows-1252"?>
+<List ListName="默认列表">
+    <File>
+        <FileName>Michael Sembello - Maniac</FileName>
+    </File>
+    <File>
+        <FileName>George Harrison - Got My Mind Set On You - Extended Version</FileName>
+    </File>
+<List>
+No & sign allowed in the Text within <FileName> tag.
+ -->
